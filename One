@@ -1,0 +1,6 @@
+def switch(name):
+  for char in name:
+    print char
+
+name = "Raphael"
+switch(name)
